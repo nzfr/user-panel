@@ -1,0 +1,18 @@
+{
+  "lang": "eng",
+  "settingsPageTitle": "User Settings",
+  "homePageTitle": "Home",
+  "userPageTitle": "User",
+  "socialPageTitle": "Socials",
+  "addSocialTitle": "Add Social",
+  "editSocialTitle": "Edit Social",
+  "submitSocial": "Submit Social",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "select": "Select",
+  "linkInputTitle": "Link",
+  "typeInputTitle": "Type",
+  "linkInputInvalidError": "Please enter a valid URL address.",
+  "inputRequiredError": "This field is required"
+}

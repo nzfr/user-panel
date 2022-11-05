@@ -1,0 +1,18 @@
+{
+  "lang": "per",
+  "settingsPageTitle": "تنظیمات کاربری",
+  "homePageTitle": "خانه",
+  "userPageTitle": "کاربر",
+  "socialPageTitle": "مسیرهای ارتباطی",
+  "addSocialTitle": "افزودن مسیر ارتباطی",
+  "editSocialTitle": "ویرایش مسیر ارتباطی",
+  "submitSocial": "ثبت مسیر ارتباطی",
+  "cancel": "انصراف",
+  "delete": "حذف",
+  "edit": "ویرایش",
+  "select": "انتخاب کنید",
+  "linkInputTitle": "لینگ",
+  "typeInputTitle": "نوع",
+  "linkInputInvalidError": "محتویات این فیلد باید از جنس آدرس اینترنتی باشد.",
+  "inputRequiredError": "وارد کردن این فیلد اجباری است."
+}
